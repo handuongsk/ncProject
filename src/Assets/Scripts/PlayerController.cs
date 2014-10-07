@@ -2,6 +2,7 @@
 /* This class handles the controlling of the player.
  */
 public class PlayerController : MonoBehaviour {
+	// Public fields
 	public float moveSpeed;
 
 	// Use this for initialization
